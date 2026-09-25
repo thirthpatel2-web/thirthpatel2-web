@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="84" viewBox="0 0 560 84" role="img" aria-label="Enter the interactive 3D portfolio">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="84" viewBox="0 0 560 84" role="img" aria-label="Explore my portfolio">
   <defs>
     <linearGradient id="b" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#58a6ff"/><stop offset=".33" stop-color="#bc8cff"/><stop offset=".66" stop-color="#ff7eb6"/><stop offset="1" stop-color="#58a6ff"/>
@@ -18,6 +18,6 @@
     <rect x="-160" y="0" width="120" height="84" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-200;700" dur="3.2s" repeatCount="indefinite"/></rect>
   </g>
   <text x="44" y="52" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#8b949e">▸</text>
-  <text x="66" y="52" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="21" font-weight="800" fill="#f0f6fc" letter-spacing="1.5">ENTER THE 3D PORTFOLIO</text>
+  <text x="66" y="52" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="21" font-weight="800" fill="#f0f6fc" letter-spacing="1.5">EXPLORE MY PORTFOLIO</text>
   <g class="arr"><text x="470" y="53" font-family="'Segoe UI',Arial,sans-serif" font-size="26" font-weight="800" fill="#ff7eb6">→</text></g>
 </svg>

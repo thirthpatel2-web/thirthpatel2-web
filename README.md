@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://thirthpatel2-web.github.io"><img src="./assets/enter.svg" alt="Enter the interactive 3D portfolio" width="460"/></a>
+  <a href="https://thirthpatel2-web.github.io"><img src="./assets/enter.svg" alt="Explore my portfolio" width="460"/></a>
   <br/>
-  <sub><i>real 3D, cards that tilt under your cursor, live stats — everything a README isn't allowed to do</i></sub>
+  <sub>projects · skills · contact — <a href="https://thirthpatel2-web.github.io">thirthpatel2-web.github.io</a></sub>
 </p>
 
 &nbsp;
