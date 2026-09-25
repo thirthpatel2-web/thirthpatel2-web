@@ -1,28 +1,14 @@
 <div align="center">
 
-# Hi, I'm Thirth Patel 👋
+<img src="./assets/hero.svg" alt="Thirth Patel — ISE (AI & Robotics) at Presidency University · applied AI, full-stack, civic tech · shipping CivicLens for Smart India Hackathon 2026" width="100%" />
 
-<a href="https://github.com/thirthpatel2-web">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=900&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=AI+%26+Robotics+%C2%B7+ISE+%40+Presidency+University;Building+AI+that+solves+real+civic+problems;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+LLMs+%C2%B7+Computer+Vision;Smart+India+Hackathon+2026+%E2%80%94+Team+CODEXXA" alt="Typing intro" />
-</a>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirth-p-a23aa0339)
 [![Email](https://img.shields.io/badge/Email-thirthpatel2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thirthpatel2@gmail.com)
-![Location](https://img.shields.io/badge/Bengaluru-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Profile views](https://komarev.com/ghpvc/?username=thirthpatel2-web&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS)](https://github.com/thirthpatel2-web)
 
 </div>
-
-```python
-class ThirthPatel:
-    university = "Presidency University, Bengaluru"
-    program    = "ISE — AI & Robotics (3rd year)"
-    focus      = ["Applied AI / ML", "Full-stack engineering", "Civic tech"]
-    shipping   = "CivicLens — interoperability gateway for Indian government platforms"
-    hackathon  = "Smart India Hackathon 2026 · Team CODEXXA"
-
-    def motto(self):
-        return "Build it, test it, ship it — and be honest about what's real."
-```
 
 ---
 
@@ -114,6 +100,17 @@ Responsible AI wellness companion: every message is screened for crisis language
 - 🏛️ Shipping **CivicLens** for **Smart India Hackathon 2026** with Team **CODEXXA**
 - 🤖 Going deeper into **AI & Robotics**: agents, computer vision and LLM systems
 - 🤝 Always up for collaborating on AI, civic-tech and full-stack projects
+
+---
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thirthpatel2-web/thirthpatel2-web/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thirthpatel2-web/thirthpatel2-web/output/snake.svg" />
+  <img alt="Contribution snake eating the contribution graph" src="https://raw.githubusercontent.com/thirthpatel2-web/thirthpatel2-web/output/snake.svg" width="100%" />
+</picture>
+
 
 <div align="center">
 
