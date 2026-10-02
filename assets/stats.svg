@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" role="img" aria-label="GitHub stats for thirthpatel2-web: 11 public projects, 0 stars, top language Python">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" role="img" aria-label="GitHub stats for thirthpatel2-web: 11 public projects, 1 stars, top language Python">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b2e"/></linearGradient>
 <linearGradient id="bd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset=".5" stop-color="#bc8cff"/><stop offset="1" stop-color="#ff7eb6"/></linearGradient></defs>
 <style>@keyframes pop { from { opacity:0; transform: translateY(8px) } to { opacity:1; transform:none } } .pop { opacity:0; animation: pop .7s cubic-bezier(.2,.8,.2,1) forwards }</style>
