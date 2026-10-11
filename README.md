@@ -19,7 +19,7 @@
 &nbsp;
 
 > [!NOTE]
-> **TL;DR for recruiters** · 3rd-year **B.Tech ISE (AI & Robotics)**, Presidency University · **CGPA 8.82** · **Smart India Hackathon 2026 team lead** · **2 industry internships**.<br/>
+> **TL;DR for recruiters** · 3rd-year **B.Tech ISE (AI & Robotics)**, Presidency University · **CGPA 8.82** · **Smart India Hackathon 2026, Top 142** · **2 industry internships**.<br/>
 > I ship **tested, documented, deployed** software: a consent-gated government data gateway with **768 automated tests + CI** and **187 REST APIs**, an **AI-agent benchmark live on Hugging Face**, and computer-vision & NLP apps.<br/>
 > **Open to** SDE · AI/ML · backend · full-stack **internships** · 📍 Bengaluru · ✉️ [thirthpatel2@gmail.com](mailto:thirthpatel2@gmail.com)
 
@@ -40,7 +40,7 @@
 
 ## `> git log --graph ~/career`
 
-<img src="./assets/journey.svg" width="100%" alt="Career timeline: 2024 started B.Tech ISE (AI & Robotics) at Presidency University; Jan 2026 Web Development Intern at Amdox Technologies; Apr 2026 FusionX Hackathon, built IRIS; Jul 2026 Full-Stack Web Development Intern at Technofenatics Solutions (Sattix); Sep 2026 Smart India Hackathon team lead, Top 142, CivicLens"/>
+<img src="./assets/journey.svg" width="100%" alt="Career timeline: 2024 started B.Tech ISE (AI & Robotics) at Presidency University; Jan 2026 Web Development Intern at Amdox Technologies; Apr 2026 FusionX Hackathon, built IRIS; Jul 2026 Full-Stack Web Development Intern at Technofenatics Solutions (Sattix); Sep 2026 Smart India Hackathon 2026, Top 142, CivicLens"/>
 
 <details>
 <summary><code>> git show --stat</code> &nbsp;·&nbsp; what I actually did at each stop</summary>
@@ -48,7 +48,7 @@
 
 | When | Role | What shipped |
 |---|---|---|
-| **Sep 2026** | 🏆 **Team Lead**, Smart India Hackathon 2026 · Top 142 (Presidency University internal round) | [CivicLens](https://github.com/thirthpatel2-web/Civiclens) for SIH26129: consent-first data exchange between departments · 187 REST operations · 50 screens · 10 languages · RAG over 38,238 judgments · 768 tests in CI |
+| **Sep 2026** | 🏆 Smart India Hackathon 2026 · **Top 142** (Presidency University internal round) | [CivicLens](https://github.com/thirthpatel2-web/Civiclens) for SIH26129: consent-first data exchange between departments · 187 REST operations · 50 screens · 10 languages · RAG over 38,238 judgments · 768 tests in CI |
 | **Jul – Sep 2026** | 💼 **Full-Stack Web Development Intern**, Technofenatics Solutions LLP (Sattix) | Features on a live PHP + SQLite platform in a ticket-based workflow: admin-configurable settings with no code deploy or DB migration; caching-related UI bugs root-caused in DevTools and fixed with cache busting |
 | **2026** | ⚡ Hackathons: Meta × Hugging Face OpenEnv · FusionX 2026 · Hack Devengers 2.0 | [Cascade Failure Env](https://huggingface.co/spaces/ThirthPatel/cascade-failure-env) (AI-agent SRE benchmark) · [IRIS](https://github.com/thirthpatel2-web/disaster-intel) (disaster intelligence) |
 | **Jan – Feb 2026** | 💼 **Web Development Intern**, Amdox Technologies | [JobConnect](https://github.com/thirthpatel2-web/job-listing-portal): Node.js + Express portal, JWT auth, role-based access, 5-stage hiring pipeline |
@@ -175,7 +175,7 @@
 | 🛡️ **Responsible AI** | [Crisis screening before any AI reply](https://github.com/thirthpatel2-web/EthicaMind/blob/main/backend/app.py) · legal AI that withholds answers it can't cite |
 | 🤖 **AI agents & evaluation** | [LLM-graded agent benchmark](https://github.com/thirthpatel2-web/cascade-failure-env/blob/main/graders.py) with easy / medium / hard tasks |
 | 🚀 **Shipping** | [Dockerised Hugging Face Space](https://huggingface.co/spaces/ThirthPatel/cascade-failure-env) · [live React demo](https://thirthpatel2-web.github.io/disastershield-ai/) · [this 3D portfolio](https://thirthpatel2-web.github.io) |
-| 👥 **Leadership** | Led my team through Smart India Hackathon 2026 (Top 142, internal round) · [6:46 demo video](https://youtu.be/tzFOb6MYcbs) |
+| 👥 **Teamwork** | Built CivicLens with my team for Smart India Hackathon 2026 (Top 142, internal round) · [6:46 demo video](https://youtu.be/tzFOb6MYcbs) |
 
 &nbsp;
 
