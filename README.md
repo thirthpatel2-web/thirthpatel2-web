@@ -175,7 +175,7 @@
 | 🛡️ **Responsible AI** | [Crisis screening before any AI reply](https://github.com/thirthpatel2-web/EthicaMind/blob/main/backend/app.py) · legal AI that withholds answers it can't cite |
 | 🤖 **AI agents & evaluation** | [LLM-graded agent benchmark](https://github.com/thirthpatel2-web/cascade-failure-env/blob/main/graders.py) with easy / medium / hard tasks |
 | 🚀 **Shipping** | [Dockerised Hugging Face Space](https://huggingface.co/spaces/ThirthPatel/cascade-failure-env) · [live React demo](https://thirthpatel2-web.github.io/disastershield-ai/) · [this 3D portfolio](https://thirthpatel2-web.github.io) |
-| 👥 **Teamwork** | Built CivicLens with my team for Smart India Hackathon 2026 (Top 142, internal round) · [6:46 demo video](https://youtu.be/tzFOb6MYcbs) |
+| 👥 **Ownership** | Primary developer of CivicLens (all 93 commits) for Smart India Hackathon 2026 (Top 142, internal round) · [6:46 demo video](https://youtu.be/tzFOb6MYcbs) |
 
 &nbsp;
 
