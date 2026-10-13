@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://thirthpatel2-web.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-thirthpatel2--web.github.io-bc8cff?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Portfolio"/></a>
   <a href="https://thirthpatel2-web.github.io/Thirth_Patel_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-one%20page%20pdf-3fb950?style=for-the-badge&logo=googledocs&logoColor=white" alt="Résumé (PDF)"/></a>
-  <a href="https://www.linkedin.com/in/thirth-p-a23aa0339"><img src="https://img.shields.io/badge/LinkedIn-Thirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/thirth-patel-a23aa0339"><img src="https://img.shields.io/badge/LinkedIn-Thirth%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:thirthpatel2@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=thirthpatel2-web&style=for-the-badge&color=ff7eb6&label=VISITORS" alt="Profile visitors"/>
 </p>
