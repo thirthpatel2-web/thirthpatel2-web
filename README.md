@@ -19,7 +19,7 @@
 &nbsp;
 
 > [!NOTE]
-> **TL;DR for recruiters** · 3rd-year **B.Tech ISE (AI & Robotics)**, Presidency University · **CGPA 8.82** · **Smart India Hackathon 2026, Top 142** · **2 industry internships**.<br/>
+> **TL;DR for recruiters** · 3rd-year **B.Tech ISE (AI & Robotics)**, Presidency University · **CGPA 8.90** · **Smart India Hackathon 2026, Top 142** · **2 industry internships**.<br/>
 > I ship **tested, documented, deployed** software: a consent-gated government data gateway with **768 automated tests + CI** and **187 REST APIs**, an **AI-agent benchmark live on Hugging Face**, and computer-vision & NLP apps.<br/>
 > **Open to** SDE · AI/ML · backend · full-stack **internships** · 📍 Bengaluru · ✉️ [thirthpatel2@gmail.com](mailto:thirthpatel2@gmail.com)
 
@@ -52,7 +52,7 @@
 | **Jul – Sep 2026** | 💼 **Full-Stack Web Development Intern**, Technofenatics Solutions LLP (Sattix) | Features on a live PHP + SQLite platform in a ticket-based workflow: admin-configurable settings with no code deploy or DB migration; caching-related UI bugs root-caused in DevTools and fixed with cache busting |
 | **2026** | ⚡ Hackathons: Meta × Hugging Face OpenEnv · FusionX 2026 · Hack Devengers 2.0 | [Cascade Failure Env](https://huggingface.co/spaces/ThirthPatel/cascade-failure-env) (AI-agent SRE benchmark) · [IRIS](https://github.com/thirthpatel2-web/disaster-intel) (disaster intelligence) |
 | **Jan – Feb 2026** | 💼 **Web Development Intern**, Amdox Technologies | [JobConnect](https://github.com/thirthpatel2-web/job-listing-portal): Node.js + Express portal, JWT auth, role-based access, 5-stage hiring pipeline |
-| **2024 – 2028** | 🎓 **B.Tech, Information Science & Engineering (AI & Robotics)**, Presidency University | CGPA 8.82 · certifications: Infosys Springboard (SQL, MySQL), Corizo (web development) |
+| **2024 – 2028** | 🎓 **B.Tech, Information Science & Engineering (AI & Robotics)**, Presidency University | CGPA 8.90 · certifications: Infosys Springboard (SQL, MySQL), Corizo (web development) |
 
 </details>
 
