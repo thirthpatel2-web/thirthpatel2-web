@@ -103,7 +103,7 @@
 <br/>
 
 - **LLM + RAG with guardrails:** CivicLens's legal analyzer runs pgvector semantic search over 38,238 Supreme Court records and **refuses to answer what it can't cite** → [Civiclens](https://github.com/thirthpatel2-web/Civiclens)
-- **AI agents & evaluation:** an OpenEnv reinforcement-learning environment where LLM agents act as on-call engineers; deterministic graders, shaped rewards, 3 difficulty tiers → [graders.py](https://github.com/thirthpatel2-web/cascade-failure-env/blob/main/graders.py)
+- **AI agents & evaluation:** an OpenEnv reinforcement-learning environment where LLM agents act as on-call engineers; rule-based graders, shaped rewards, 3 difficulty tiers → [graders.py](https://github.com/thirthpatel2-web/cascade-failure-env/blob/main/graders.py)
 - **Speech:** Whisper speech-to-text for complaints in 10 Indian languages → CivicLens
 - **Computer vision:** OpenCV pothole detection with a Keras CNN path → [RoadScan AI](https://github.com/thirthpatel2-web/Road_scan_AI-)
 - **Classical ML / NLP, explainable:** TF-IDF + cosine similarity and logistic regression with scores you can trace → [Signal](https://github.com/thirthpatel2-web/AI-Resume_Analyser) · [SkillSense](https://github.com/thirthpatel2-web/Skillsense)
